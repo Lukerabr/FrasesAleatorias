@@ -1,6 +1,6 @@
 # frases
 
-A new Flutter project.
+Primeiro Projeto Flutter
 
 ## Getting Started
 
