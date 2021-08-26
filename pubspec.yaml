@@ -52,6 +52,7 @@ flutter:
     - images/astronomy-1867616_1920.jpg
     - images/tree-832079_1280.jpg
     - images/1594765315717-4.png
+    - images/logo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
